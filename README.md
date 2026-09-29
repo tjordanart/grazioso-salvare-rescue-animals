@@ -4,6 +4,8 @@ A menu-driven Java console app for tracking and reserving search-and-rescue anim
 
 Take in new dogs and monkeys, reserve trained animals by country, and view who is available.
 
+*Built for IT 145 at SNHU.*
+
 ## Overview
 
 The Rescue Animal System was built for a fictional search-and-rescue training company called Grazioso Salvare.
